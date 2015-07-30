@@ -1,1 +1,1 @@
-e-commerce site, which is developed on Laravel5, using PHP, Javascript, jQuery, Bootstrap.
+It's an e-commerce site, which is developed on Laravel5, using PHP, Javascript, jQuery, Bootstrap.
